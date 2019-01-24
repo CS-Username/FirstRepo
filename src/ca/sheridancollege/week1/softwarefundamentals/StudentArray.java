@@ -13,7 +13,7 @@ public class StudentArray
 {
     public static void main(String[] args)
     {
-        System.out.println("This is a new message");
+        System.out.println("This is a new message (change)");
         StudentDemo [] studentList = new StudentDemo[4];
         StudentDemo student1 = new StudentDemo("1", "Jim Halpern");
         studentList[0] = student1;
